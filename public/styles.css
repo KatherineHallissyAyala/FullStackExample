@@ -6,30 +6,31 @@
     height: 90vh;
 }
 .section{
-    font-size: 2em;
-    font-weight: 800;
+  font-size: 2em;
+  font-weight: 800;
 }
 header, aside, article, footer{
     border-style: solid;
     font-size: 1em;
 }
 aside{
-    background: #98fb98;
+  background: #98FB98;    
 }
 article{
-    background: #FFCCD6;
+  background: #FFCCD6;    
 }
 header, footer{
-    grid-column: 1 / 4;
-    background: #94C9FA;
+  grid-column: 1 / 4;
+  background: #94C9FA;    
 }
+
 body{
-    font-family: Arial;
+  font-family: Arial;
 }
 button{
     font-size: 1em;
 }
 img{
-    height: 32px;
-    width: 32px;
+  height: 32px;
+  width: 32px;
 }
